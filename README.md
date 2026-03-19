@@ -10,7 +10,6 @@ Built as a hands-on introduction to Unity's 2D physics, sprite rendering, and ga
 Navigate the bird through an endless series of pipes by tapping/clicking to flap.  
 Each pipe pair you survive earns you a point. Hit a pipe or the ground — game over.
 
-![preview](Flappy%20bird.gif)
 
 ---
 
